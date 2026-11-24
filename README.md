@@ -1,6 +1,6 @@
 # BetterMyau
 
-![预览](/images/image2.png)
+![BetterMyau](images/banner.png)
 
 BetterMyau 是基于 [OpenMyau](https://github.com/60124808866/OpenMyau)（`Myau-250910`）继续开发的 Minecraft **Forge 1.8.9** 客户端模组，
 在原版功能之上加入了统一的磨砂玻璃界面、跨版本 Via、音乐播放器、游戏内指南等大量改动。
@@ -19,6 +19,8 @@ BetterMyau 是基于 [OpenMyau](https://github.com/60124808866/OpenMyau)（`Myau
 3. 启动游戏；配置保存在 `.minecraft/config/Myau/`
 
 ## 主要特性
+
+![功能一览](images/features.png)
 
 - **磨砂玻璃 UI**：主菜单、各界面、HUD、TargetHUD、通知统一成玻璃风格；主菜单与菜单背景由代码绘制
   （`myau.ui.glass.MenuBackdrop`，HUD 的 `menu-background` 设置：AURORA 流光 / NIGHT 方块夜景 / PANORAMA 模糊全景 / MINIMAL 纯黑），不需要额外素材
