@@ -1,0 +1,42 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+.idea
+.gradle
+.gradle-ui
+.vscode
+run
+*.iml
+out
+build
+
+# Third-party user configs collected from Discord: never commit them
+configs/
+
+# Temp/backup files written by FileUtil
+*.tmp
+*.corrupt-*
+
+# Media sources
+*.mp4
+*_frames.bin

@@ -1,0 +1,8 @@
+{
+  "package": "${basePackage}.mixin",
+  "plugin": "${basePackage}.init.MyauMixinPlugin",
+  "refmap": "mixins.${modid}.refmap.json",
+  "required": true,
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8"
+}

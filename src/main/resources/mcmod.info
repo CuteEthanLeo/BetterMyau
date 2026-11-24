@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "BetterMyau",
+    "description": "BetterMyau, a fork of OpenMyau for Minecraft 1.8.9.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "ksyz",
+      "OpenMyau contributors",
+      "BetterMyau maintainers"
+    ],
+    "credits": "Account manager derived from ksyzov/AccountManager (LGPL, relicensed GPLv3). Click GUI ported from Raven B3 by blowsy."
+  }
+]
